@@ -1,0 +1,9 @@
+[sncast.default]
+account = "kayzee"
+accounts-file = "/home/kayzee/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+url = "https://starknet-sepolia.public.blastapi.io"
+
+# [sncast.kayzee]
+# account = "kayzee"
+# accounts-file = "/home/kayzee/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+# url = "https://starknet-sepolia.public.blastapi.io"
